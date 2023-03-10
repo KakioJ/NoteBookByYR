@@ -1,2 +1,5 @@
 # NoteBookByYR
-Yamada Ryo‘s NoteBook
+
+Yamada Ryo's NoteBook
+
+[demo](https://kakioj.github.io/NoteBookByYR/)
